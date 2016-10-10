@@ -18,4 +18,4 @@ def example():
     
     exam.add_question("What is an object","They are instance of classes")   
 
-take_test(exam, student)
+# take_test(exam, student)
